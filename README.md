@@ -26,6 +26,9 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+In order for this to work , you need to have the db setup properly and it should be up and running. 
+
+
 ## Installation
 
 ```bash
