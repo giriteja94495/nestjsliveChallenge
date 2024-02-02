@@ -1,0 +1,6 @@
+1> /avg-trans-amt : Compute the average transaction amount. - DONE
+2> /all-trans: Allow the user to input a specific date and retrieve all transactions that occurred on that date. - DONE
+3> /loyalty-score: Calculate a loyalty score for each user based on the number of transactions and the total amount transferred. Define a formula that considers both frequency and monetary aspects.
+loyalty score = numberOfTransactions(1 for all cases) so not PessimisticLockTransactionRequiredError, 
+  totalAmountTransferred ( how close to avg) - DONE 
+4>  
